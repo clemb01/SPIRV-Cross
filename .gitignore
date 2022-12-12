@@ -18,7 +18,8 @@
 *.bc
 /external
 .vs/
-*.vcxproj.user
+**.vcxproj*
 
 !CMakeLists.txt
 !LICENSES/*.txt
+
